@@ -1,0 +1,10 @@
+.board-row {
+    display: flex;
+    margin: 0px;
+}
+.square {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    font-size: 35px;
+}
